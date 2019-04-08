@@ -1,0 +1,20 @@
+{
+  "name": "DahRealCompany",
+  "version": "",
+  "description": "DahRealCompany",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "DahRealPanda",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "googleapis": "^27.0.0",
+    "nodemon": "^1.18.4"
+  }
+}
